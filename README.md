@@ -1,0 +1,1 @@
+# Hand_guesture_rating_DeepLearning_Model
